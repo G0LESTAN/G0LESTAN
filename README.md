@@ -1,9 +1,10 @@
 ![لوگو دانشگاه فرهنگیان](https://github.com/G0LESTAN/samanehyar/blob/main/logo.webp?raw=true)
 ![خوشنویس نام دانشگاه فرهنگیان](https://github.com/G0LESTAN/samanehyar/blob/main/logo-txt-fa.webp?raw=true)
 
+---
+
 # سامانه‌یار اداری فرهنگیان
 
----
 
 ## توضیح کوتاه
 
